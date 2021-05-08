@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Notes</string>
+
+    <string name="ok">OK</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="about">About</string>
+    <string name="delete">Delete</string>
+    <string name="delete_note">Delete note</string>
+
+    <string name="title">Title</string>
+    <string name="note">Note</string>
+
+    <string name="version">Version</string>
+    <string name="copyright">© Hydr10n@GitHub\nWelcome to visit https://github.com/Hydr10n</string>
+</resources>
